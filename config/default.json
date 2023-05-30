@@ -2,7 +2,7 @@
   "server": {
     "host": "ec2-35-166-54-34.us-west-2.compute.amazonaws.com",
     "port": 5000,
-    "executableName": "MultiFPSBuild.x86_64",
+    "executableName": "TBFZ.x86_64",
     "serverAppPort": 6000
   }
 }
